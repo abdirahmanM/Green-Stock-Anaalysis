@@ -8,3 +8,4 @@ Refactoring is a key part of the coding process. When refactoring code, I won't 
 Results
 
 The results of this project was a macro that contained information about tickers and the return of tickers for the years 2018 and 2017.
+![Screenshot (14)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/51c822f0-d245-46e8-8988-fa387572979a)
