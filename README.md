@@ -19,5 +19,3 @@ time after refactoring for 2018
 ![Screenshot (13)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/88ec0739-455f-4415-9235-0b84ac31542e)
 time after redfactoring for 2017
 ![Screenshot (12)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/6c04cd0b-4cb2-46fc-9acc-e2cba9ad0989)
-
-Link to work- file:///C:/Users/student.amohamed22/Desktop/green_stocks(abdirahman).xlsm
