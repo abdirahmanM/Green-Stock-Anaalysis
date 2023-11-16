@@ -12,10 +12,10 @@ The results of this project was a macro that contained information about tickers
 ![Screenshot (15)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/deaf5137-2fb1-4838-beb0-668799e4c4d6)
 
 Time before Refactoring for 2018
-![Screenshot (13)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/5928555b-c406-436a-9368-1b81e75ded0d)
+![Screenshot (10)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/7d202548-b47a-420b-953c-2cfc485ab2ea)
 time before refactoring for 2017
-![Screenshot (12)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/62961f1d-cf72-4703-acee-ff90c2eb7d55)
+![Screenshot (11)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/187436c4-375a-4e55-8b71-f509bfb855b0)
 time after refactoring for 2018
-![Screenshot (11)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/d4f6b7f4-5248-445f-b3cb-b8fa365e0fe4)
+![Screenshot (13)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/88ec0739-455f-4415-9235-0b84ac31542e)
 time after redfactoring for 2017
-![Screenshot (10)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/4f1a09d7-ce2b-43d4-8827-eb3e3151c5d7)
+![Screenshot (12)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/6c04cd0b-4cb2-46fc-9acc-e2cba9ad0989)
