@@ -10,3 +10,4 @@ Results
 The results of this project was a macro that contained information about tickers and the return of tickers for the years 2018 and 2017.
 ![Screenshot (14)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/51c822f0-d245-46e8-8988-fa387572979a)
 ![Screenshot (15)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/deaf5137-2fb1-4838-beb0-668799e4c4d6)
+
