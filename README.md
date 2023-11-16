@@ -11,3 +11,11 @@ The results of this project was a macro that contained information about tickers
 ![Screenshot (14)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/51c822f0-d245-46e8-8988-fa387572979a)
 ![Screenshot (15)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/deaf5137-2fb1-4838-beb0-668799e4c4d6)
 
+Time before Refactoring for 2018
+![Screenshot (13)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/5928555b-c406-436a-9368-1b81e75ded0d)
+time before refactoring for 2017
+![Screenshot (12)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/62961f1d-cf72-4703-acee-ff90c2eb7d55)
+time after refactoring for 2018
+![Screenshot (11)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/d4f6b7f4-5248-445f-b3cb-b8fa365e0fe4)
+time after redfactoring for 2017
+![Screenshot (10)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/4f1a09d7-ce2b-43d4-8827-eb3e3151c5d7)
