@@ -6,4 +6,5 @@ In this challenge, I’ll edit, or refactor, the Module 2 solution code to loop 
 Refactoring is a key part of the coding process. When refactoring code, I won't be adding new functionality; I just want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. Refactoring is common on the job because first attempts at code won’t always be the best way to accomplish a task. Sometimes, refactoring someone else’s code will be My entry point to working with the existing code at a job.
  
 Results
+
 The results of this project was a macro that contained information about tickers and the return of tickers for the years 2018 and 2017.
