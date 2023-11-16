@@ -5,4 +5,5 @@ Steve is very impressed with the workbook I prepared for him. one click of a but
 In this challenge, I’ll edit, or refactor, the Module 2 solution code to loop through all the data one time in order to collect the same information that I did in this module. Then, I’ll determine whether refactoring your code successfully made the VBA script run faster. Finally, I’ll present a written analysis that explains my findings.
 Refactoring is a key part of the coding process. When refactoring code, I won't be adding new functionality; I just want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. Refactoring is common on the job because first attempts at code won’t always be the best way to accomplish a task. Sometimes, refactoring someone else’s code will be My entry point to working with the existing code at a job.
  
-![Picture one](Screenshot (10).ID.png)
+
+![Screenshot (10)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/f3ed73a9-2aa6-4f61-a73c-557e5716d28b)
