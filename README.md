@@ -21,6 +21,6 @@ time after redfactoring for 2017
 ![Screenshot (12)](https://github.com/abdirahmanM/Green-Stock-Anaalysis/assets/146730667/6c04cd0b-4cb2-46fc-9acc-e2cba9ad0989)
 
 |Before | After          |
-------------------------
+|------------------------|
 |2018|0.1660156|0.5039063|
 |2017|0.1640625|0.4980469|
